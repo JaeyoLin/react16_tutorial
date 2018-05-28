@@ -19,3 +19,5 @@ npm install && npm run build
 ```bash
 npm install && npm run deployToGitHub
 ```
+
+Transpill and deploy to GitHub gh-pages branch ([Demo](https://JaeyoLin.github.io/react16_tutorial)).
