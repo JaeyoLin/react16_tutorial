@@ -1,6 +1,6 @@
 # react16_tutorial
 
-The repositorie is a quick starter for react.
+The repository is a quick starter for react.
 
 ## Development
 
